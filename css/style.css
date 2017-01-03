@@ -269,7 +269,7 @@ h1,h2,h3,h4 ,.lead{font-family: 'Droid Sans', sans-serif;}
 /* Start Our Team section */
 
 .our-team{
-    background: url(../images/team/background2.jpg) no-repeat center fixed;
+    background: url(../images/team/background.jpg) no-repeat center fixed;
     -webkit-background-size:cover;
     -moz-background-size:cover;
     -o-background-size:cover;
